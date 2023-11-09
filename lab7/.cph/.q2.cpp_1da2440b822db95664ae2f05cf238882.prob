@@ -1,0 +1,1 @@
+{"name":"Local: q2","url":"x:\\SEM-5\\DAA\\DAA_LAB\\DAA\\lab7\\q2.cpp","tests":[{"id":1698923685128,"input":"abcd\nabc\n","output":"3"},{"id":1698923701404,"input":"10010101\n010110110","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"x:\\SEM-5\\DAA\\DAA_LAB\\DAA\\lab7\\q2.cpp","group":"local","local":true}
